@@ -8,7 +8,7 @@
         >vue-cli documensssssstat</a
       >.
     </p>
-    <h3>InstalledI Plsss</h3>
+    <h3>InstaI Plsss</h3>
     <ul>
       <li>
         <!-- <a
